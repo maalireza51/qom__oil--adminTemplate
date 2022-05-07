@@ -1,0 +1,29 @@
+.form-check-input:checked{
+    background-color: #ffc107;
+    border-color: #ffc107;
+}
+textarea:focus,
+.form-control:focus,
+.form-select:focus,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+input[type="week"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="color"]:focus,
+input[type="file"]:focus,
+input[type="range"]:focus,
+input[type="checkbox"]:focus,
+.uneditable-input:focus {   
+  border-color: #ffc107;
+  box-shadow: 0 0 0 0.1rem #ffc107;
+  /* outline: 0 none; */
+}
