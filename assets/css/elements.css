@@ -2,9 +2,13 @@
     background-color: #ffc107;
     border-color: #ffc107;
 }
+input[type="checkbox"]:focus:not(:checked){
+  border-color: #fff;
+  box-shadow: 0 0 0 0.1rem #ddd;
+}
 
 .form-switch .form-check-input:focus:not(:checked) {
-background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='-4 -4 8 8'%3e%3ccircle r='3' fill='orange'/%3e%3c/svg%3e");
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='-4 -4 8 8'%3e%3ccircle r='3' fill='silver'/%3e%3c/svg%3e");
 }
 
 
