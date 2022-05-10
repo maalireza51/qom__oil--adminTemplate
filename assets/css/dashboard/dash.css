@@ -48,7 +48,7 @@
 */
 .widget-card-four {
     padding: 25px 23px;
-    background: #0e1726;
+    background: #fff;
 }
 .widget-card-four .w-header {
     display: flex;
@@ -60,7 +60,7 @@
 .widget-card-four .w-header .w-info h6 {
     font-weight: 600;
     margin-bottom: 0;
-    color: #e0e6ed;
+    color: #212529;
     font-size: 23px;
     letter-spacing: 0;
 }
@@ -85,7 +85,7 @@
 }
 .widget-card-four .w-content .w-info p.value span {
     font-size: 15px;
-    color: #e0e6ed;
+    color: #212529;
     font-weight: 500;
     letter-spacing: 0;
 }
@@ -146,10 +146,10 @@
 
 .widget.widget-one {
     padding: 22px 18px;
-    background: #0e1726;
+    background: #fff;
 }
 .widget.widget-one .widget-heading h6 {
-    color: #e0e6ed;
+    color: #212529;
     margin-bottom: 74px;
     font-size: 17px;
     display: block;
@@ -196,7 +196,7 @@
 */
 
 .widget.widget-chart-three {
-    background: #0e1726;
+    background: #fff;
 }
 .widget.widget-chart-three .widget-heading {
     display: flex;
@@ -209,7 +209,7 @@
 .widget.widget-chart-three .widget-heading h5 {
     font-size: 17px;
     display: block;
-    color: #e0e6ed;
+    color: #212529;
     font-weight: 600;
     margin-bottom: 0;
 }
@@ -247,7 +247,7 @@
 
 .widget.widget-activity-five {
     position: relative;
-    background: #0e1726;
+    background: #fff;
     border-radius: 6px;
     height: 100%;
 }
@@ -261,7 +261,7 @@
 .widget.widget-activity-five .widget-heading h5 {
     font-size: 17px;
     display: block;
-    color: #e0e6ed;
+    color: #212529;
     font-weight: 600;
     margin-bottom: 0;
 }
@@ -287,8 +287,8 @@
     right: 2px;
     -webkit-filter: blur(9px);
     filter: blur(9px);
-    background: -webkit-linear-gradient(180deg,#0e1726 56%,#0e1726d1 73%,#2C303C00);
-    background: linear-gradient(180deg,#0e1726 56%,#0e1726d1 73%,#2C303C00);
+    background: -webkit-linear-gradient(180deg,#fff 56%,#fff 73%,#2C303C00);
+    background: linear-gradient(180deg,#fff 56%,#fff 73%,#2C303C00);
 }
 .widget-activity-five .w-shadow-bottom {
     display: block;
@@ -301,8 +301,8 @@
     right: 2px;
     -webkit-filter: blur(9px);
     filter: blur(9px);
-    background: -webkit-linear-gradient(180deg,#0e1726 56%,#0e1726d4 73%,#2C303C00);
-    background: linear-gradient(180deg,#0e1726 56%,#0e1726d4 73%,#2C303C00);
+    background: -webkit-linear-gradient(180deg,#fff 56%,#fff 73%,#2C303C00);
+    background: linear-gradient(180deg,#fff 56%,#fff 73%,#2C303C00);
 }
 .widget-activity-five .mt-container {
     position: relative;
@@ -421,7 +421,7 @@
 
 .widget-one_hybrid {
     background: #fff;
-    background: #0e1726;
+    background: #fff;
 }
 .widget-one_hybrid .widget-heading {
     padding: 20px 13px;
@@ -491,14 +491,14 @@
     background: #4361ee;
     z-index: 0;
     overflow: hidden;
-    background-image: linear-gradient(to top, #00c6fb -227%, #005bea 100%);
+    background-image: linear-gradient(to top, #fff1aa -227%, #ffd555 100%);
 }
 .widget-account-invoice-two:before {
     content: '';
     position: absolute;
     height: 221px;
     width: 582px;
-    background-color: rgb(25, 55, 204);
+    background-color: #ffc107;
     top: 0;
     left: 0;
     z-index: 1;
@@ -514,7 +514,7 @@
     margin-bottom: 83px;
 }
 .widget-account-invoice-two .account-box h5 {
-    color: #e0e6ed;
+    color: #212529;
     margin-bottom: 0;
     font-size: 16px;
     font-weight: 400;
@@ -524,7 +524,7 @@
     text-align: left;
 }
 .widget-account-invoice-two .account-box p {
-    color: #e0e6ed;
+    color: #212529;
     font-weight: 400;
     margin-bottom: 4px;
     align-self: center;
@@ -548,7 +548,7 @@
     display: inline-block;
     padding: 6px;
     border-radius: 6px;
-    color: #e0e6ed;
+    color: #212529;
     box-shadow: 0px 0px 2px 0px #bfc9d4;
 }
 .widget-account-invoice-two .account-box .acc-action a:first-child {
@@ -566,7 +566,7 @@
     ==================
 */
 .widget-card-one {
-    background: #0e1726;
+    background: #fff;
     padding: 20px 0;
     height: 100%;
 }
@@ -661,7 +661,7 @@
 
 .widget-four {
     position: relative;
-    background: #0e1726;
+    background: #fff;
     padding: 20px;
     border-radius: 6px;
     height: 100%;
@@ -674,7 +674,7 @@
 .widget-four .widget-heading h5 {
     font-size: 17px;
     display: block;
-    color: #e0e6ed;
+    color: #212529;
     font-weight: 600;
     margin-bottom: 0;
 }
@@ -754,7 +754,7 @@
     content: '';
     height: 7px;
     width: 7px;
-    background: #0e1726;
+    background: #fff;
     position: absolute;
     left: 3px;
     border-radius: 50%;
@@ -767,7 +767,7 @@
 */
 .widget-card-two {
     padding: 20px 0px;
-    background: #0e1726;
+    background: #fff;
 }
 .widget-card-two .media {
     padding-right: 15px;
@@ -843,7 +843,7 @@
     =====================
 */
 .widget-five {
-    background: #0e1726;
+    background: #fff;
     padding: 20px 0px;
     height: 100%;
 }
